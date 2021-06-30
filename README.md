@@ -1,1 +1,1 @@
-# hello**Staff** is a Staff Attendance and Salary Management app.
+# hello**Staff** is a Staff Payroll and Attendance Management app for small and medium-sized businesses.
